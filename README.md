@@ -55,6 +55,7 @@ I’m super passionate about coding, solving problems, and experimenting with ne
 |----------|
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
 | ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 
 ### Programming Languages on my Wishlist:
 | Language |
@@ -67,6 +68,9 @@ I’m super passionate about coding, solving problems, and experimenting with ne
 | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white) |
 | ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) |
 | ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) |
+| ![Nim](https://img.shields.io/badge/-Nim-FEA702?style=for-the-badge&logo=nim&logoColor=white) |
+| ![Perl](https://img.shields.io/badge/-Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) |
+| ![Mojo](https://img.shields.io/badge/-Mojo-000000?style=for-the-badge&logo=mojo&logoColor=white) |
 
 ### Additional Technologies I Used or I am Currently Using
 | Technology |
@@ -77,5 +81,12 @@ I’m super passionate about coding, solving problems, and experimenting with ne
 | ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+
+### My Setup
+| OS | Editor Of Choice |
+|----|------------------|
+| ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) |
 
 ---
