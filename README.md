@@ -46,19 +46,19 @@ Welcome to my GitHub profile! I'm a **Double Degree student** at the **Universit
 I’m super passionate about coding, solving problems, and experimenting with new technologies. Here’s an overview of my skills and the tools I’m currently exploring:
 
 ### Programming Languages I am Constantly Using
-| Language |          | | | | 
-|----------|----------|----------|----------|----------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) |
+| Language |          | | | | | |
+|----------|----------|----------|----------|----------|-|-|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white) |  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
 
 ### Programming Languages I am Currently Experimenting With
-| Language | | |
-|----------|----------|----------|
-| ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| Language | | | |
+|----------|----------|----------|-|
+| ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) |
 
 ### Programming Languages on my Wishlist:
-| Language | | | | | | | | | | | |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white) | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Nim](https://img.shields.io/badge/-Nim-FEA702?style=for-the-badge&logo=nim&logoColor=white) | ![Perl](https://img.shields.io/badge/-Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) | ![Mojo](https://img.shields.io/badge/-Mojo-000000?style=for-the-badge&logo=mojo&logoColor=white) | ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white) |
+| Language | | | | | | | | |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| ![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white) | ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white) | ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![Nim](https://img.shields.io/badge/-Nim-FEA702?style=for-the-badge&logo=nim&logoColor=white) | ![Perl](https://img.shields.io/badge/-Perl-39457E?style=for-the-badge&logo=perl&logoColor=white) | ![Mojo](https://img.shields.io/badge/-Mojo-000000?style=for-the-badge&logo=mojo&logoColor=white) | ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white) |
 
 ### Additional Technologies I Used or I am Currently Using
 | Technology | | | | | | | | | | |
