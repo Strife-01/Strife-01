@@ -7,8 +7,10 @@ Welcome to my GitHub profile! I'm a **Double Degree student** at the **Universit
 ## 🌟 About Me
 
 - 🧑‍🎓 **Education:**  
-  - **Double Degree:** Technical Computer Science (TCS) and Applied Mathematics (AM) at the University of Twente.  
+  - **Double Degree:** Technical Computer Science (TCS) and Applied Mathematics (AM) at the University of Twente.
+    - [Curriculum here](https://github.com/Strife-01/University-Of-Twente/blob/main/README.md) 
   - Emphasis on **algorithm design, optimization, and interdisciplinary problem-solving.**
+    - Also part of the Honours Programe for Mathematics with the curriculum displayed above.
   - **Previous Degree** Systems Engineering and Applied Computer Science at the Technical University Asachi.
   - Emphasis on **computer architecture, hardware and circuit design, control theory and embedded systems.**
 
@@ -27,6 +29,8 @@ Welcome to my GitHub profile! I'm a **Double Degree student** at the **Universit
   - Going to the GYM
   - Reading a good book or playing some video games
 
+- 💻 **Current Job**
+  - **Software Engineering Intern at Thales Netherlands, researching interoperability between Rust and C++ for real-time data processing tools with code injection and code generation.**
 ---
 
 ## 🌍 Double Degree Focus
