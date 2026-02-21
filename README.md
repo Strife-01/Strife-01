@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a **Double Degree student** at the **Universit
   - Going to the GYM
   - Reading a good book or playing some video games
 
-- 💻 **Current Job**
+- 💻 **Professional Experience**
   - **Software Engineering Intern at Thales Netherlands, researching interoperability between Rust and C++ for real-time data processing tools with code injection and code generation.**
 ---
 
